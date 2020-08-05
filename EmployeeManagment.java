@@ -8,4 +8,7 @@ class Calculator{
    public void prod(int a, int b){
     System.out.println("Product = "+(a*b));
    }
+    public void dv(int a, int b){
+    System.out.println("Division = "+(a/b));
+    }
 }
